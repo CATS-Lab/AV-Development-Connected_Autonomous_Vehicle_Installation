@@ -1,0 +1,16 @@
+
+CUDA installation guide: https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html
+CUDA 10.0: https://developer.nvidia.com/cuda-10.0-download-archive?target_os=Linux&target_arch=x86_64&target_distro=Ubuntu&target_version=1604&target_type=runfilelocal
+
+ROS: http://wiki.ros.org/kinetic/Installation/Ubuntu
+
+Autoware: https://gitlab.com/autowarefoundation/autoware.ai/autoware/-/wikis/Source-Build
+
+YOLO: https://pjreddie.com/darknet/yolo/
+Vision Darknet: https://autoware.readthedocs.io/en/feature-documentation_rtd/DevelopersGuide/PackagesAPI/detection/vision_darknet_detect.html
+GPU gencodes: http://arnon.dk/matching-sm-architectures-arch-and-gencode-for-various-nvidia-cards/
+Github yolov3 GPU: https://github.com/pjreddie/darknet/issues/1478
+
+
+Pointgrey camera: https://autoware.readthedocs.io/en/feature-documentation_rtd/DevelopersGuide/PackagesAPI/sensing/pointgrey.html
+Spinnaker: https://meta.box.lenovo.com/v/link/view/a1995795ffba47dbbe45771477319cc3
