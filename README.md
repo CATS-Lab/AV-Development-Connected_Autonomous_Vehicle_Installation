@@ -1,2 +1,0 @@
-# Connected_Autonomous_Vehicle_Installation
-Guaidance for Autonomous Vehicle Installation and Development
